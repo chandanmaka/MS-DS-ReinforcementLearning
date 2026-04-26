@@ -2,7 +2,7 @@
 
 This folder contains the notebook for Lab 5:
 
-- `MountainCar_SemiGradient_SARSA_TileCoding.ipynb`
+- `Week_5_assignment.ipynb`
 
 ## Setup
 
